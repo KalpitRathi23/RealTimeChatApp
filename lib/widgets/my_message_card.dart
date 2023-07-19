@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import '../colors.dart';
+import '../common/utils/colors.dart';
 
 class MyMessageCard extends StatelessWidget {
   final String message;

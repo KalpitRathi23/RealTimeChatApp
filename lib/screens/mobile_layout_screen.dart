@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import '../colors.dart';
+import '../common/utils/colors.dart';
 import '../widgets/contacts_list.dart';
 
 class MobileLayoutScreen extends StatelessWidget {

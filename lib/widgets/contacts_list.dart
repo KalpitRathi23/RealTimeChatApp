@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import '../colors.dart';
+import '../common/utils/colors.dart';
 import '../info.dart';
 import '../screens/mobile_chat_screen.dart';
 
