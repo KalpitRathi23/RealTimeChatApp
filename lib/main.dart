@@ -5,11 +5,11 @@ import 'firebase_options.dart';
 
 import 'package:whatsapp_clone/features/landing/screens/landing_screen.dart';
 import 'package:whatsapp_clone/router.dart';
-import 'package:whatsapp_clone/screens/mobile_layout_screen.dart';
 import 'features/auth/controller/auth_controller.dart';
 import 'common/utils/colors.dart';
 import 'common/widgets/error.dart';
 import 'common/widgets/loader.dart';
+import 'mobile_layout_screen.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
